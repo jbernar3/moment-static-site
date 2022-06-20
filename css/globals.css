@@ -4,7 +4,8 @@
 @import url("https://px.animaapp.com/629f59f977c8c6120d8e7153.629f59fa699476d359966e23.HPWa8P0.hcp.png");
 
 html {
-  overflow-x: hidden
+  overflow-x: hidden;
+  max-width: 100%;
 }
 
 .jeff-phone-right-shift {
