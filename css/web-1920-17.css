@@ -144,6 +144,7 @@
   height: 57px;
   object-fit: cover;
   width: 57px;
+  margin-top: 20px;
 }
 
 .iphone-13-12-pro-max-1 .createevents {
@@ -375,7 +376,7 @@
   left: 193px;
   object-fit: cover;
   position: absolute;
-  top: 345px;
+  top: 365px;
   width: 58px;
 }
 
@@ -457,7 +458,7 @@
   left: 228px;
   object-fit: cover;
   position: absolute;
-  top: 0;
+  top: 10px;
   width: 60px;
 }
 
@@ -581,7 +582,7 @@
   left: 290px;
   object-fit: cover;
   position: absolute;
-  top: 625px;
+  top: 645px;
   width: 57px;
 }
 
