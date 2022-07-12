@@ -2696,7 +2696,7 @@
   width: 199px;
 }
 
-.iphone-13-12-pro-max-3 .jeffersonchoi-bernard {
+.iphone-13-12-pro-max-3 .jefferson-bernard {
   align-self: flex-end;
   letter-spacing: 0;
   line-height: 30px;
@@ -2903,7 +2903,7 @@
   width: 174px;
 }
 
-.iphone-13-12-pro-max-3 .colemanjin-smith {
+.iphone-13-12-pro-max-3 .coleman-smith {
   letter-spacing: 0;
   line-height: 30px;
   margin-left: 6.54px;
@@ -3764,7 +3764,7 @@
   width: 298px;
 }
 
-.web-1920-17 .jeffersonchoi-bernard-1 {
+.web-1920-17 .jefferson-bernard-1 {
   align-self: flex-end;
   letter-spacing: 0;
   line-height: 46px;
@@ -4000,7 +4000,7 @@
   width: 260px;
 }
 
-.web-1920-17 .colemanjin-smith-1 {
+.web-1920-17 .coleman-smith-1 {
   letter-spacing: 0;
   line-height: 46px;
   margin-left: 9.0px;
@@ -4233,46 +4233,46 @@
   width: 336px;
 }
 @media screen and (max-width: 767px) {
-  .screen.web-1920-17 { 
+  .screen.web-1920-17 {
     display: none;
    }
-  .screen.iphone-13-12-pro-max-3 { 
+  .screen.iphone-13-12-pro-max-3 {
     display: none;
    }
-  .screen.iphone-13-12-pro-max-2 { 
+  .screen.iphone-13-12-pro-max-2 {
     display: none;
    }
 }
 @media screen and (min-width: 768px) and (max-width: 1279px) {
-  .screen.web-1920-17 { 
+  .screen.web-1920-17 {
     display: none;
    }
-  .screen.iphone-13-12-pro-max-3 { 
+  .screen.iphone-13-12-pro-max-3 {
     display: none;
    }
-  .screen.iphone-13-12-pro-max-1 { 
+  .screen.iphone-13-12-pro-max-1 {
     display: none;
    }
 }
 @media screen and (min-width: 1280px) and (max-width: 1919px) {
-  .screen.web-1920-17 { 
+  .screen.web-1920-17 {
     display: none;
    }
-  .screen.iphone-13-12-pro-max-2 { 
+  .screen.iphone-13-12-pro-max-2 {
     display: none;
    }
-  .screen.iphone-13-12-pro-max-1 { 
+  .screen.iphone-13-12-pro-max-1 {
     display: none;
    }
 }
 @media screen and (min-width: 1920px) {
-  .screen.iphone-13-12-pro-max-3 { 
+  .screen.iphone-13-12-pro-max-3 {
     display: none;
    }
-  .screen.iphone-13-12-pro-max-2 { 
+  .screen.iphone-13-12-pro-max-2 {
     display: none;
    }
-  .screen.iphone-13-12-pro-max-1 { 
+  .screen.iphone-13-12-pro-max-1 {
     display: none;
    }
 }
